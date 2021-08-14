@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.253">
+    <testcase classname="Database Test" name="User connet database" time="0.06">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given user connet database and print all data...............................undefined
+]]></failure>
+    </testcase>
+</testsuite>

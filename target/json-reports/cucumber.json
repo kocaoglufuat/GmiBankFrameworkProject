@@ -1,0 +1,47 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-08-14T23:10:48.880Z",
+        "line": 3,
+        "name": "User connet database",
+        "description": "",
+        "id": "database-test;user-connet-database",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "user connet database and print all data",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@db"
+          }
+        ]
+      }
+    ],
+    "name": "Database Test",
+    "description": "",
+    "id": "database-test",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/database.feature",
+    "tags": [
+      {
+        "name": "@db",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
